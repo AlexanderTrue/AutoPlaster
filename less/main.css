@@ -727,3 +727,11 @@ footer {
       display: flex;justify-content: center;margin-bottom: 1rem;
     }
 }
+@media (max-width: 600px){
+  .next{
+    right: 0;
+  } 
+  .prev{
+    left: 0;
+  } 
+}
