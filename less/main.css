@@ -690,3 +690,40 @@ footer {
 .main-form__footer{
   margin-bottom: 0;
 }
+@media (max-width:575px){
+  .logo{
+    text-align: center;
+  } 
+  .main-link{
+    display: flex;
+    justify-content: center;
+  }
+.wrap{
+  display: flex;
+  justify-content: center;
+} 
+.button-price{
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+.price-btn{
+  display: flex;justify-content: center;
+}
+.price-title{
+  display: flex;justify-content: center;align-items: center;
+  margin-top: -3rem;
+}
+.upsell .section-header{
+  padding: 0;
+}
+.contacts-form{
+  display: flex;
+  text-align: center;align-items: center;justify-content: center;
+}
+
+}
+@media (max-width:767px){
+    .footer-logo{
+      display: flex;justify-content: center;margin-bottom: 1rem;
+    }
+}
