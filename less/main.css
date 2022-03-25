@@ -2,7 +2,7 @@ html {
   font-size: 15px;
 }
 .section {
-  background: url('img/01.jpg') 0 0/cover   no-repeat fixed;
+  background: url('../img/01.jpg') 0 0/cover   no-repeat fixed;
 }
 .btn-warning {
   color: #fff;
@@ -165,7 +165,7 @@ label {
   width: 30px;
   height: 30px;
   left: -2rem;
-  background: url('img/arrow/prev.png') 0 0 / 100% no-repeat;
+  background: url('../img/arrow/prev.png') 0 0 / 100% no-repeat;
   border: none;
   
 }
@@ -178,7 +178,7 @@ label {
   width: 30px;
   height: 30px;
   right: -2rem;
-  background: url('img/arrow/next.png') 0 0 / 100% no-repeat;
+  background: url('../img/arrow/next.png') 0 0 / 100% no-repeat;
   border: none;
 }
 .popup {
@@ -392,7 +392,7 @@ label {
   content: '\2714';
 }
 .feedback {
-  background: url('img/01.jpg') top no-repeat fixed;
+  background: url('../img/01.jpg') top no-repeat fixed;
   background-size: cover;
 }
 .feedback-btn {
@@ -424,7 +424,7 @@ label {
   width: 50px;
   height: 50px;
   left: -4rem;
-  background: url('img/arrow/prev.png') 0 0 / 100% no-repeat;
+  background: url('../img/arrow/prev.png') 0 0 / 100% no-repeat;
   border: none;
 }
 .feedback-next {
@@ -436,7 +436,7 @@ label {
   width: 50px;
   height: 50px;
   right: -4rem;
-  background: url('img/arrow/next.png') 0 0 / 100% no-repeat;
+  background: url('../img/arrow/next.png') 0 0 / 100% no-repeat;
   border: none;
 }
 .feedback-slider {
@@ -475,7 +475,7 @@ label {
 }
 .sheme {
   margin-top: 5rem;
-  background: url('img/bg-sheme.png') bottom right 5rem no-repeat;
+  background: url('../img/bg-sheme.png') bottom right 5rem no-repeat;
   background-size: 25rem;
 }
 .sheme p {
@@ -537,7 +537,7 @@ label {
   color: #fff;
 }
 .problems {
-  background: url('img/problems-women.jpg') center bottom no-repeat;
+  background: url('../img/problems-women.jpg') center bottom no-repeat;
   background-size: 14rem;
 }
 .problems h1 {
@@ -626,7 +626,7 @@ label {
   font-weight: 700;
 }
 .tour {
-  background: url('img/tour-bg.jpg') no-repeat fixed;
+  background: url('../img/tour-bg.jpg') no-repeat fixed;
   background-size: cover;
 }
 .tour-form {
@@ -661,7 +661,7 @@ label {
   padding: 0.5rem;
 }
 .contacts {
-  background: url('img/footer-bg.png') bottom right 25rem no-repeat;
+  background: url('../img/footer-bg.png') bottom right 25rem no-repeat;
 }
 .contacts .map {
   padding-bottom: 1rem;
