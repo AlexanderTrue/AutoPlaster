@@ -424,7 +424,7 @@ label {
   width: 50px;
   height: 50px;
   left: -4rem;
-  background: url('../img/arrow/prev.png') 0 0 / 100% no-repeat;
+  background: url('../img/arrow.prev.png') 0 0 / 100% no-repeat;
   border: none;
 }
 .feedback-next {
@@ -436,7 +436,7 @@ label {
   width: 50px;
   height: 50px;
   right: -4rem;
-  background: url('../img/arrow\next.png') 0 0 / 100% no-repeat;
+  background: url('../img/arrow.next.png') 0 0 / 100% no-repeat;
   border: none;
 }
 .feedback-slider {
