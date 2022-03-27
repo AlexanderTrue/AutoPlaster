@@ -734,4 +734,27 @@ footer {
   .prev{
     left: 0;
   } 
+  .section-header{
+    margin-bottom: 0px;
+    padding: 0rem;
+    
+  }
+  .problems-list ul{
+    padding-left: 0px;
+  }
+  .materials {
+    padding: 0px 0px 2rem 0px ;
+  }
+  body{
+    width: 101%;
+  }
+  .main-text h1{
+    font-size: 22px;
+  }
+  .sheme {
+    margin-top: 2rem;
+  }
+  .all_inclusive-header{
+    padding: 0px 0px 2rem 0px;
+  }
 }
